@@ -7,7 +7,7 @@
         "version": "2.0.0",
         "displayName": "PIC18F26K42 Explorer8 Labs",
         "projectName": "pic18f26k42-explorer8-labs",
-        "shortDescription": "",
+        "shortDescription": "MPLAB Xpress Example for Explorer-8 development board with PIC18F26K42",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=5.15.0"
